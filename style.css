@@ -1,0 +1,29 @@
+body{
+	background-color: #EBEDF0;
+}
+header{
+	height: 61px;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding-left: 40%;
+}
+span{
+color: black;
+font-weight: 800;
+font-family: "TT Commons",-apple-system,system-ui,Helvetica Neue,Roboto,sans-serif;
+font-size: 23px;
+}
+form{
+	margin: 40px auto;
+	background-color: #FFFFFF;
+	width: 30%;
+	height: 400px;
+	border-radius: 10px;
+	padding: 10px 20px 20px 10px;
+}
+input{
+	margin: 20px;
+}
+.biginput{
+	width: 80%;
+}
